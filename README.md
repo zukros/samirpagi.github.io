@@ -1,4 +1,4 @@
-# ryan-andri.github.io
+# samirpagi.github.io
 ---
 ### Credits
 https://vincentgarreau.com/particles.js for Particles.js
